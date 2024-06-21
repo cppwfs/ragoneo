@@ -1,0 +1,3 @@
+Customers who deposit $5000 will get a 5% money market.
+Customers who deposit $10000 will get a 10% money market.
+All other customers get $3000 money market.
